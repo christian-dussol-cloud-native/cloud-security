@@ -1,3 +1,3 @@
 # cloud-security
 
-Educational resources related to Cloud security.
+> Educational resources, best practices, and security frameworks for Cloud Native environments
