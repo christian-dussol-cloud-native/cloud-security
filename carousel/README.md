@@ -38,3 +38,23 @@ Security engineers, DevOps teams, and developers working with APIs in cloud-nati
 ## 🔗 Related Content
 
 - [API-Security-Reality-Check-What-Years-Of-Securing-Financial-APIs-Taught-Me](https://medium.com/@christian.dussol/api-security-reality-check-what-years-of-securing-financial-apis-taught-me-1868bd95a893)
+
+# 🛡️ OWASP LLM Top 10 (2025)
+
+> Comprehensive analysis of the OWASP Top 10 for Large Language Model Applications
+
+## 📋 Visual presentation of critical LLM security risks
+  - 15-page technical breakdown
+  - Real-world incidents (OmniGPT, Replit AI)
+  - Actionable mitigation strategies
+  - Verified statistics and sources
+
+## 🚨 Key Topics Covered
+- LLM01: Prompt Injection
+- LLM02: Sensitive Information Disclosure
+- LLM06: Excessive Agency
+- LLM07: System Prompt Leakage
+- LLM08: Vector & Embedding Weaknesses
+- LLM10: Unbounded Consumption
+
+📖 **Full OWASP Documentation:** [genai.owasp.org/llm-top-10](https://genai.owasp.org/llm-top-10/)
